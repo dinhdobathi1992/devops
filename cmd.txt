@@ -1,0 +1,2216 @@
+    1  apt 
+    2  yum
+    3  apt get install
+    4  sudo passwd root
+    5  sudo spctl --master-disable
+    6  spctl --status
+    7  cat ~/.zshrc
+    8  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    9  eixt
+   10  exit
+   11  ls
+   12  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   13  su root
+   14  su root
+   15  ls -la
+   16  cat .zshrc
+   17  cat
+   18  vim
+   19  vim .zshrc
+   20  exit
+   21  ls
+   22  git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k\n
+   23  git clone --depth=1 https://gitee.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k\n
+   24  ls
+   25  ls -la
+   26  echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+   27  exit
+   28  cat ~/.zshrc
+   29  vim  ~/.zshrc
+   30  eixt
+   31  exit
+   32  sudo launchctl limit maxfiles unlimited
+   33  xcode-select --install\n
+   34  git clone https://github.com/DemisR/mac-devops-setup.git
+   35  cd Downloads
+   36  lls
+   37  ls
+   38  cd mac
+   39  cd mac-devops-setup-master
+   40  ls
+   41  chmod +x Install.sh
+   42  ls
+   43  ll
+   44  ./Install.sh
+   45  ./Install.sh
+   46  ls
+   47  ansible-playbook setup-my-mac.yml -i inventory -K\n
+   48  ansible
+   49  pip3 
+   50  pip3 install ansible
+   51  ansible
+   52  ansible-playbook setup-my-mac.yml -i inventory -K\n
+   53  sudo pip install ansible
+   54  pip install --upgrade pip
+   55  brew install ansible
+   56  sudo easy install 
+   57  sudo easy install brew
+   58  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   59  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   60  brew doctor
+   61  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/thithi/.zprofile
+   62  eval "$(/opt/homebrew/bin/brew shellenv)"
+   63  brew help
+   64  brew install ansible
+   65  ansible
+   66  ansible-playbook setup-my-mac.yml -i inventory -K\n
+   67  ansible-galaxy collection install community.general
+   68  ansible-playbook setup-my-mac.yml -i inventory -K\n
+   69  ansible-playbook setup-my-mac.yml -i inventory -K\n
+   70  ansible-playbook setup-my-mac.yml -i inventory -K\n
+   71  ansible-playbook setup-my-mac.yml -i inventory -K\n
+   72  brew doctor
+   73  ls
+   74  ./Install.sh
+   75  ls
+   76  vim setup-my-mac.yml
+   77  cd mac-devops-setup
+   78  ls
+   79  vim setup-my-mac.yml
+   80  cd ../
+   81  ./Install.sh
+   82  ansible-playbook setup-my-mac.yml -i inventory -K\n
+   83  cd ../
+   84  git clone https://github.com/geerlingguy/mac-dev-playbook.git.
+   85  git clone https://github.com/geerlingguy/mac-dev-playbook.git
+   86  cd mac-dev
+   87  cd mac-dev-playbook
+   88  ls
+   89  ansible-galaxy install -r requirements.yml
+   90  ansible-playbook main.yml --ask-become-pass
+   91  vagrant
+   92  vg
+   93  brew install --cask iterm2
+   94  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   95  ls
+   96  clear
+   97  git clone https://github.com/hashicorp/vagrant-vmware-desktop.git
+   98  gem build vagrant-vmware-desktop.gemspec\n
+   99  cd vagrant-vmware-desktop
+  100  gem build vagrant-vmware-desktop.gemspec\n
+  101  cd go_src/vagrant-vmware-utility\ngo build\n./vagrant-vmware-utility certificate generate\nsudo ./vagrant-vmware-utility api\n
+  102  lss
+  103  ls
+  104  cd ../
+  105  ls
+  106  cd ../
+  107  ls
+  108  brew install go
+  109  go
+  110  cd go_src/vagrant-vmware-utility\ngo build\n./vagrant-vmware-utility certificate generate\nsudo ./vagrant-vmware-utility api\n
+  111  sudo ./vagrant-vmware-utility api
+  112  ./vagrant-vmware-utility certificate generate\n
+  113  ls
+  114  ks
+  115  ls
+  116  cd ~/
+  117  ls
+  118  cd Do
+  119  cd ~/vagrant-vmware-desktop/go_src/vagrant-vmware-utility'\n\n
+  120  cd ~/vagrant-vmware-desktop/go_src/vagrant-vmware-utility\n\n
+  121  ./vagrant-vmware-utility certificate generate\n
+  122  $ sudo mkdir /opt/vagrant-vmware-desktop\n$ sudo ln -s PATH /opt/vagrant-vmware-desktop/certificates\n
+  123  sudo mkdir /opt/vagrant-vmware-desktop
+  124  sudo ln -s PATH /opt/vagrant-vmware-desktop/certificates
+  125  vagrant 
+  126  ls
+  127  vim Vagrantfile
+  128  vagrant up
+  129  vagrant up --provider=vmware_desktop
+  130  vim Vagrantfile
+  131  vagrant up
+  132  vagrant plugin license vagrant-vmware-fusion-license.lic\n
+  133  vagrant plugin install vagrant-vmware-fusion
+  134  cd ../
+  135  cd ~
+  136  vagrant plugin install vagrant-vmware-fusion
+  137  vagrant plugin expunge
+  138  vagrant plugin install vagrant-vmware-fusion
+  139  sudo vagrant plugin install vagrant-vmware-fusion
+  140  sudo ./vagrant-vmware-utility
+  141  sudo ./vagrant-vmware-utility service
+  142  sudo ./vagrant-vmware-utility service install
+  143  cd ../
+  144  ls
+  145  cd ../
+  146  ;s
+  147  ls
+  148  vagrant up  --provider=vmware_fusion --debug
+  149  vagrant up  --provider=vmware_desktop --debug
+  150  vagrant plugin install vagrant-vmware-desktop
+  151  cls
+  152  ls
+  153  cd ~/vagrant-vmware-desktop/go_src/vagrant-vmware-utility
+  154  ls
+  155  vg up
+  156  vagrant up
+  157  ls /opt/vagrant-vmware-desktop
+  158  sudo /opt/vagrant-vmware-desktop/bin/vagrant-vmware-utility certificate generate
+  159  cd /opt/vagrant-vmware-desktop/bin/vagrant-vmware-utility
+  160  cd /opt/vagrant-vmware-desktop/bin/
+  161  ls
+  162  ./vagrant-vmware-utility certificate generate
+  163  ls /opt/vagrant-vmware-desktop/certificates
+  164  cat /opt/vagrant-vmware-desktop/certificates
+  165  rm -rf /opt/vagrant-vmware-desktop/certificates
+  166  sudo rm -rf /opt/vagrant-vmware-desktop/certificates
+  167  ./vagrant-vmware-utility certificate generate
+  168  sudo /opt/vagrant-vmware-desktop/bin/vagrant-vmware-utility certificate generate
+  169  sudo /opt/vagrant-vmware-desktop/bin/vagrant-vmware-utility service install
+  170  vagrant status
+  171  cd ~
+  172  mkdir thi
+  173  cd thi
+  174  vagrant init
+  175  ls -la ~/
+  176  sudo echo "alias vg='vagrant'" >> ~/.zshrc
+  177  sudo echo "alias asb='ansible'" >> ~/.zshrc
+  178  source ~/.zshrc
+  179  vg
+  180  vg status
+  181  pwd
+  182  cd ../
+  183  rm -rf thi
+  184  mkdir devops
+  185  cd devops
+  186  ls
+  187  vagrant box add hashicorp/bionic64
+  188  cd de
+  189  cd devops
+  190  ls
+  191  vagrant box add hashicorp/bionic64
+  192  vg box list
+  193  vagrant up --provider=vmware_desktop
+  194  vg plugin list
+  195  code .
+  196  vim ~/.zshrc
+  197  source ~/.zshrc
+  198  code .
+  199  code 
+  200  vi ~/.bashrc
+  201  vi ~/.zshrc
+  202  source ~/.zshrc
+  203  code 
+  204  code .
+  205  ls 
+  206  cat Vagrantfile
+  207  vg up
+  208  vg box list
+  209  vg up
+  210  sw_vweas
+  211  sw_vers
+  212  vg up
+  213  sudo pkill -f "/Applications/VMware Fusion"\n
+  214  vg halt
+  215  vg up
+  216  clear
+  217  ssh  thi@192.168.0.229
+  218  ssh-keygen 
+  219  ssh-copy-id thi@192.168.0.229
+  220  ssh  thi@192.168.0.229
+  221  ssh-copy-id thi@192.168.0.229
+  222  ssh 'thi@192.168.0.229'
+  223  /Volumes/Install/.hidden/Install.command ; exit;
+  224  ls
+  225  whoami
+  226  git clone https://github.com/MacPass/MacPass --recursive\n
+  227  .
+  228  ssh root@192.168.0.229
+  229  exit
+  230  ssh keygen
+  231  ssh-keygen
+  232  ssh-copy-id thi@192.168.0.229
+  233  ssh-copy-id root@192.168.0.229
+  234  ssh root@192.168.0.229
+  235  asb
+  236  vg
+  237  sudo -i
+  238  nslookup
+  239  cat /etc/hosts
+  240  ping gitlab.do.class
+  241  sudo echo "alias shdlvn='ssh thi@192.168.0.229'" >> ~/.bashrc
+  242  sudo echo "alias sshdlvn='ssh root@192.168.0.229'" >> ~/.bashrc
+  243  source ~/.bashrc
+  244  sudo echo "alias shdlvn='ssh thi@192.168.0.229'" >> ~/.zshrc
+  245  sudo echo "alias sshdlvn='ssh root@192.168.0.229'" >> ~/.zshrc
+  246  source ~/.zshrc
+  247  sshdlvn
+  248  shdlvn
+  249  ssh deploy@192.168.0.80
+  250  git clone --bare https://TOOA01@dev.azure.com/TOOA01/DevOps%20Basic%20Online/_git/cicd-pipeline-train-schedule-pipelines
+  251  ls
+  252  rm -rf cicd-pipeline-train-schedule-pipelines.git
+  253  cd /tmp
+  254  ls
+  255  git clone --bare https://TOOA01@dev.azure.com/TOOA01/DevOps%20Basic%20Online/_git/cicd-pipeline-train-schedule-pipelines
+  256  cd cicd-pipeline-train-schedule-pipelines.git
+  257  ls -la
+  258  git clone --mirror http://gitlab.do.class/it-division/cicd-pipeline-train-schedule-pipelines.git
+  259  ls
+  260  rm -rf cicd-pipeline-train-schedule-pipelines.git
+  261  ls
+  262  git push --mirror http://gitlab.do.class/it-division/cicd-pipeline-train-schedule-pipelines.git
+  263  cd /temp
+  264  mkdir /temp
+  265  cd /temp
+  266  whoami
+  267  sudo mkdir /temp
+  268  ls /
+  269  cd /home/
+  270  ls
+  271  sudo mkdir temp
+  272  mmkdir temp
+  273  mkdir temp
+  274  ls
+  275  touch test.txt
+  276  cd /home/thithi
+  277  ls
+  278  cd ~
+  279  ls
+  280  cd devops
+  281  ls
+  282  mkdir temp
+  283  cd temp
+  284  git clone git@gitlab.do.class:it-division/cicd-pipeline-train-schedule-pipelines.git
+  285  git clone http://gitlab.do.class/it-division/cicd-pipeline-train-schedule-pipelines.git
+  286  cd cicd-pipeline-train-schedule-pipelines
+  287  ls
+  288  code  .
+  289  git checkout example-solution
+  290  ls
+  291  code .
+  292  git pull
+  293  ls
+  294  cd /tmp
+  295  ls
+  296  rm -rf cicd-pipeline-train-schedule-pipelines.git
+  297  git clone  https://TOOA01@dev.azure.com/TOOA01/DevOps%20Basic%20Online/_git/cicd-pipeline-train-schedule-pipelines
+  298  ls
+  299  cd c
+  300  cd cicd-pipeline-train-schedule-pipelines
+  301  ls
+  302  git checkout example-solution
+  303  ls
+  304  cat Jenkinsfile
+  305  pwd
+  306  cp Jenkinsfile /Users/thithi/devops/temp/cicd-pipeline-train-schedule-pipelines
+  307  ls
+  308  cat Jenkinsfile
+  309  shdlvn
+  310  sshdlvn
+  311  git checkout master
+  312  git commit
+  313  git add 
+  314  git add  .
+  315  git commit -m "add jenkinfile"
+  316  git push
+  317  git checkout master
+  318  ls
+  319  git add .
+  320  git commit -m "add new jenkin pipeline file"
+  321  git push
+  322  git add .
+  323  git commit -m "add new jenkin pipeline file"
+  324  git push
+  325  git add .
+  326  git commit -m "add new jenkin pipeline file"
+  327  git push
+  328  git clone --bare https://TOOA01@dev.azure.com/TOOA01/DevOps%20Basic%20Online/_git/cicd-pipeline-train-schedule-docker
+  329  cd cicd-pipeline-train-schedule-docker.git
+  330  ls
+  331  git push --mirror http://gitlab.do.class/it-division/cicd-pipeline-train-schedule-docker.git
+  332  cd /Users/thithi/devops
+  333  ls
+  334  cd temp
+  335  ls
+  336  git clone http://gitlab.do.class/it-division/cicd-pipeline-train-schedule-docker.git
+  337  ls
+  338  cd cicd-pipeline-train-schedule-docker
+  339  ls
+  340  code ./
+  341  git add .
+  342  git commit -m "add jenkinfile to build docker"
+  343  git push
+  344  git add .
+  345  git commit -m "add jenkinfile to build docker"
+  346  git push
+  347  git add .
+  348  git commit -m "add jenkinfile to build docker"
+  349  git add .
+  350  git commit -m "add jenkinfile to build docker"
+  351  git add .
+  352  git commit -m "add jenkinfile to build docker"
+  353  git push
+  354  git add .
+  355  git commit -m "add jenkinfile to build docker"
+  356  git push
+  357  whoami
+  358  sshdlvn
+  359  git add .
+  360  git commit -m "add jenkinfile to build docker"
+  361  git push
+  362  git add .
+  363  git commit -m "add jenkinfile to build docker"
+  364  git push
+  365  sshdlvn
+  366  git add .
+  367  git commit -m "add jenkinfile to build docker"
+  368  git push
+  369  git add .
+  370  git commit -m "add jenkinfile to build docker"
+  371  git push
+  372  sshdlvn
+  373  ls
+  374  vim Jenkinsfile
+  375  ls
+  376  cd ../
+  377  ls
+  378  git clone http://gitlab.do.class/it-division/devopsclass/jgsu-spring-petclinic.git
+  379  ls
+  380  cd jgsu-spring-petclinic
+  381  ls
+  382  code .
+  383  shdlvn
+  384  sshdlvn
+  385  ls
+  386  cd Downloads
+  387  ls
+  388  cd google-cloud-sdk
+  389  ls
+  390  ./install.sh
+  391  gcloud
+  392  exit
+  393  gcloud
+  394  gcloud compute list
+  395  gcloud init 
+  396  gcloud compute instance list
+  397  gcloud compute instances list
+  398  gcloud compute ssh kube-master
+  399  sshdlvn
+  400  shdlvn
+  401  shdlvn 
+  402  sshdlvn
+  403  shdlvn
+  404  pwd
+  405  ls
+  406  cd devops
+  407  ls
+  408  cd temp/
+  409  ls
+  410  git clone http://gitlab.do.class/it-division/pipeline-vagrant.git
+  411  cd pipeline-vagrant
+  412  ls
+  413  code .
+  414  shdlvn
+  415  git add . | git commit -m "tst" | git push
+  416  git add .
+  417  git commit -m "asdas"
+  418  git push
+  419  git add . && git commit -m "a" && git push
+  420  ls
+  421  ll
+  422  chmod +x updateinventory.sh
+  423  ls
+  424  git add . && git commit -m "a" && git push
+  425  shdlvn
+  426  git add . && git commit -m "a" && git push
+  427  htop
+  428  top
+  429  yum
+  430  apt
+  431  apt install
+  432  apt-get
+  433  brew install htop
+  434  brew install --cask stats\n
+  435  gcloud compute instance list
+  436  gcloud compute instances list
+  437  gcloud compute ssh 
+  438  gcloud compute ssh kube-master
+  439  gcloud compute ssh  kube-worker1
+  440  shdlvn
+  441  gcloud compute ssh  kube-worker1
+  442  shdvln
+  443  shdlvn
+  444  sshdlvn
+  445  ls
+  446  cd Documents
+  447  ls
+  448  git clone https://github.com/hungtran84/k8s-cka.git
+  449  ls
+  450  cd k8s-cka
+  451  ls
+  452  cd d2_workloads
+  453  ls
+  454  cd 02_configmap_secret
+  455  ls
+  456  cd ../
+  457  cd ~
+  458  telnet 35.186.158.166 6443
+  459  brew install telnet
+  460  telnet
+  461  telnet 35.186.158.166 6443
+  462  kctl
+  463  kube
+  464  kubectl
+  465  echo "$(<kubectl.sha256)  kubectl" | shasum -a 256 --check\n
+  466  kubectl
+  467  chmod +x ./kubectl
+  468  sudo mv ./kubectl /usr/local/bin/kubectl\nsudo chown root: /usr/local/bin/kubectl
+  469  kubectl
+  470  echo 'colorscheme ron' >> ~/.vimrc\necho 'set tabstop=2' >> ~/.vimrc\necho 'set shiftwidth=2' >> ~/.vimrc\necho 'set expandtab' >> ~/.vimrc\necho 'source <(kubectl completion bash)' >> ~/.zshrc\necho 'alias k=kubectl' >> ~/.zshrc\necho 'alias c=clear' >> ~/.zshrc\necho 'complete -F __start_kubectl k' >> ~/.zshrc\nsed -i '1s/^/force_color_prompt=yes\n/' ~/.zshrc
+  471  echo 'alias k=kubectl' >> ~/.zshrc
+  472  echo 'alias c=clear' >> ~/.zshrc
+  473  echo 'complete -F __start_kubectl k' >> ~/.zshrc
+  474  source ~/.zshrc
+  475  vim ~/.zshrc
+  476  source ~/.zshrc
+  477  k
+  478  k get no
+  479  ls
+  480  ls -l
+  481  ls -la
+  482  cd /home/thi
+  483  cd /home
+  484  ls
+  485  cat ~/.kube
+  486  cat ~/.kube/config
+  487  vim ~/.kube/config
+  488  sudo systemctl restart kubelet\n
+  489  k
+  490  k get no
+  491  shdlvn
+  492  cat ~/.ssh/id_rsa.pub
+  493  ping gitlab.do.class
+  494  ssh root@gitlab.do.class
+  495  cat ~/.ssh/id_rsa.pub
+  496  ssh root@jenkins.do.class
+  497  vim ~/.zshrc
+  498  source ~/.zshrc
+  499  shjk
+  500  cat ~/.zshrc
+  501  shjk
+  502  shgl
+  503  vim ~/.zshrc
+  504  cat ~/.zshrc
+  505  source ~/.zshrc
+  506  shgl
+  507  \n      typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet\n
+  508  cat ~/.zshrc
+  509  zsh
+  510  echo $POWERLEVEL9K_INSTANT_PROMPT
+  511  typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
+  512  source ~/.zshrc
+  513  cat ~/.zshrc | grep -t
+  514  cat ~/.zshrc
+  515  cat ~/.zshrc | grep
+  516  cat ~/.zshrc | grep "-t"
+  517  cat ~/.zshrc | grep "t"
+  518  cat ~/.zshrc | grep ^#
+  519  cat ~/.zshrc | grep ~#
+  520  cat ~/.zshrc | grep #
+  521  p10k configure
+  522  exit
+  523  git -C ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k pull\n
+  524  zsh
+  525  ll
+  526  k
+  527  k get no
+  528  cat ~/.zshrc
+  529  vim ~/.zshrc
+  530  k Applications
+  531  vim ~/.zshrc
+  532  source ~/.zshrc
+  533  exit
+  534  source <(kubectl completion zsh)\n
+  535  echo 'alias k=kubectl' >>~/.zshrc\necho 'complete -F __start_kubectl k' >>~/.zshrc
+  536  source ~/.zshrc
+  537  source <(kubectl completion zsh)
+  538  source <(kubectl completion zsh) >> ~/.zshrc
+  539  source ~/.zshrc
+  540  exit
+  541  vim ~/.zshrc
+  542  source ~/.zshrc
+  543  exit
+  544  k
+  545  k get no
+  546  gcloud compute  instances  list
+  547  gcloud compute  instances 
+  548  gcloud compute  instances stop
+  549  gcloud compute  instances stop kube-worker1 
+  550  shdlvn
+  551  sshdlvn
+  552  code .
+  553  sshdlvn
+  554  clear
+  555  vim /etc/hosts
+  556  cat /etc/hostname
+  557  cat /etc/hostnames
+  558  hostnamectl
+  559  clear
+  560  sshdlvn
+  561  ls
+  562  cd de
+  563  cd devops
+  564  ls
+  565  cd temp
+  566  ls
+  567  vcd pipeline-vagrant
+  568  ls
+  569  cd pipeline-vagrant
+  570  ls
+  571  git remote add origin https://github.com/dinhdobathi1992/k8s-deployvmvg.git\ngit branch -M main\ngit push -u origin main
+  572  cd ../
+  573  echo "# k8s-deployvmvg" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/dinhdobathi1992/k8s-deployvmvg.git\ngit push -u origin main
+  574  cd devops
+  575  cd temp
+  576  ls
+  577  echo "# k8s-deployvmvg" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/dinhdobathi1992/k8s-deployvmvg.git\ngit push -u origin main
+  578  git clone https://github.com/dinhdobathi1992/k8s-deployvmvg.git
+  579  ls
+  580  cp -R pipeline-vagrant/* k8s-deployvmvg/*
+  581  cp -R pipeline-vagrant/* k8s-deployvmvg/
+  582  cd k8s-deployvmvg
+  583  ls
+  584  ls -la
+  585  git add .
+  586  git commit -m "push code"
+  587  git push
+  588  cat  ~/.ssh/id_rsa
+  589  cat  ~/.ssh/id_rsa_
+  590  cat  ~/.ssh/id_rsa.pub 4
+  591  git push
+  592  cd ../
+  593  rm -rf k8s-deployvmvg
+  594  ls
+  595  echo "# k8s-deployvmvg" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:dinhdobathi1992/k8s-deployvmvg.git\ngit push -u origin main
+  596  ping 192.168.0.129
+  597  ping 192.168.0.229
+  598  k9s
+  599  k8s
+  600  k9s
+  601  k 
+  602  k get no
+  603  gcloud compute  instances
+  604  gcloud compute  instances list
+  605  gcloud compute ssh kube-master
+  606  k get no
+  607  k get no -owide
+  608  ls 
+  609  cd devops
+  610  ls
+  611  cd temp
+  612  ls
+  613  git clone https://github.com/dinhdobathi1992/k8s-cka.git
+  614  cd k8s-cka
+  615  ls
+  616  cd d2_workloads
+  617  k9s
+  618  k get node
+  619  k get node -owude
+  620  k get node -owide
+  621  ls
+  622  cd 04_statefulset_daemonset_job
+  623  ls
+  624  code .
+  625  clear
+  626  k get no
+  627  k get daemonsets.apps -owide
+  628  k get daemonsets.apps -n kube-system
+  629  ls
+  630  cat DaemonSet.yaml
+  631  clear
+  632  k apply -f DaemonSet.yaml
+  633  k get daemonsets.apps -owide
+  634  k get daemonsets.apps
+  635  k get po -owide
+  636  cat DaemonSet.yaml
+  637  CLEAR
+  638  k describe daemonsets.apps hello-world-ds| more
+  639  k get po --show-labels
+  640  MYPOD=$(kubectl get pods -l app=hello-world-app | grep hello-world | head -n 1 | awk {'print $1'})\necho $MYPOD
+  641  k label pod $MYPOD app=not-hello-world --overwrite
+  642  k get pod 
+  643  k get pod  --show-labels
+  644  cat DaemonSet.yaml
+  645  kubectl delete daemonsets hello-world-ds\nkubectl delete pods $MYPOD\n
+  646  kubectl apply -f DaemonSetWithNodeSelector.yaml\n
+  647  kubectl get daemonsets\n
+  648  k label nodes kube-worker1 node=hello-world-ns
+  649  k get po
+  650  k get daemonsets.apps
+  651  k delete daemonsets.apps hello-world-ds
+  652  k apply -f DaemonSet
+  653  k apply -f DaemonSet.yaml
+  654  k get daemonsets.apps hello-world-ds -oyaml
+  655  diff DaemonSet.yaml DaemonSet-v2.yaml
+  656  k apply -f DaemonSet-v2.yaml
+  657  k rollout status daemonset hello-world-ds
+  658  k describe daemonsets.apps
+  659  k get po --show-labels
+  660  k delete daemonsets.apps hello-world-ds
+  661  k get daemonsets.apps
+  662  k9s
+  663  cleasr
+  664  clear
+  665  cat job.yaml
+  666  k apply -f job.yaml
+  667  k get po
+  668  k get jobs.batch --wa
+  669  k get jobs.batch --watch
+  670  k get po
+  671  k get jobs.batch --watch
+  672  k describe job hello-world-job
+  673  kubectl get pods -l job-name=hello-world-job \nkubectl logs hello-world-job-cmn2f
+  674  k get pod -l job-name=hello-world-job
+  675  k logs hello-world-job-tztbz
+  676  kubectl apply -f job-failure-OnFailure.yaml\n
+  677  k get pod --watch
+  678  cat job-failure-OnFailure.yaml
+  679  kubectl describe jobs | more
+  680  k get jobs
+  681  kubectl describe jobs | more\n
+  682  kubectl delete jobs hello-world-job-fail\nkubectl get pods\n
+  683  k apply -f ParallelJob.yaml
+  684  k get jobs
+  685  k get pos
+  686  k get pod
+  687  watch 'kubectl describe job | head -n 11'\n
+  688  watch
+  689  watch -n2 'kubectl describe job | head -n 11\n
+  690  watch -n 2
+  691  brew insatll watch
+  692  brew install watch
+  693  k get po
+  694  cd devops/temp/k8s-cka/d2_workloads
+  695  ls
+  696  cd 0
+  697  cd 04_statefulset_daemonset_job
+  698  ls
+  699  cat ParallelJob.yaml
+  700  k describe jobs.batch hello-world-job-parallel
+  701  k describe jobs.batch hello-world-job-parallel | more
+  702  k logs hello-world-job-parallel-24zfv
+  703  watch -n2 'kubectl describe job | head -n 11\n
+  704  watch 'kubectl describe job | head -n 11'\n
+  705  k get jobs.batch 
+  706  kubectl delete job hello-world-job-parallel\n
+  707  clear
+  708  k apply -f CronJob.yaml
+  709  k get po
+  710  vim CronJob.yaml
+  711  k get cronjobs.batch
+  712  k describe cronjobs.batch| more
+  713  k get cronjobs.batch
+  714  k get pod --wtach
+  715  k get pod --watch
+  716  kubectl get cronjobs -o yaml\n
+  717  k logs hello-world-cron-27185148-jglmz
+  718  k delete cronjobs.batch hello-world-cron
+  719  k get pod
+  720  k delete jobs.batch hello-world-job
+  721  k get no -owide
+  722  shdlvn 
+  723  brew install argocd
+  724  ifconfig
+  725  exit
+  726  cd ~
+  727  k get no
+  728  sshdlvn 
+  729  shdlvn
+  730  k get no
+  731  cat .kube/config
+  732  clear
+  733  k get no
+  734  code .
+  735  sshdlvn
+  736  .
+  737  clear
+  738  k get no
+  739  k config get-contexts
+  740  cd .kube
+  741  ls
+  742  vim config-onprem
+  743  shdlvn
+  744  clear
+  745  k config get-c
+  746  k config get-contexts
+  747  export KUBECONFIG=~/.kube/config:~/.kube/config-onprem
+  748  k config get-contexts
+  749  k get no
+  750  k config get-contexts
+  751  shdlvn
+  752  htop
+  753  shdlvn
+  754  k get no
+  755  sshdlvn
+  756  ping 192.168.0.128
+  757  vim config-onprem
+  758  k config get-contexts
+  759  export KUBECONFIG=~/.kube/config:~/.kube/config-onprem
+  760  echo KUBECONFIG
+  761  echo $KUBECONFIG
+  762  k config get-contexts
+  763  k get no
+  764  k config get-contexts
+  765  cd ~
+  766  l;s
+  767  ls
+  768  cd devops
+  769  ls
+  770  cd temp
+  771  ls
+  772  k config
+  773  k config get-contexts
+  774  export KUBECONFIG=~/.kube/config:~/.kube/config-onprem
+  775  k config get-contexts
+  776  kubectl config view\n
+  777  git clone --bare https://TOOA01@dev.azure.com/TOOA01/DevOps%20Basic%20Online/_git/cicd-pipeline-train-schedule-kubernetes
+  778  ls
+  779  ccd cicd-pipeline-train-schedule-kubernetes.git
+  780  cd cicd-pipeline-train-schedule-kubernetes.git
+  781  git push --mirror git@gitlab.do.class:it-division/devopsclass/cicd-pipeline-train-schedule-kubernetes.git
+  782  git push --mirror http://gitlab.do.class/it-division/devopsclass/cicd-pipeline-train-schedule-kubernetes.git
+  783  k config --kubeconfig=config-onprem view
+  784  k config --kubeconfig=.kube/config-onprem view
+  785  cd .kube
+  786  ls
+  787  export KUBECONFIG=$KUBECONFIG:config:config-onprem\n
+  788  export KUBECONFIG=$KUBECONFIG:config-demo:config-demo-2\n
+  789  export KUBECONFIG=$KUBECONFIG:config:config-onprem
+  790  kubectl config view
+  791  k config get-contexts
+  792  echo $KUBECONFIG
+  793  export KUBECONFIG=~/.kube/config:~/.kube/config-onprem
+  794  ls .kube
+  795  vim .kube/config-onprem
+  796  cat .kube/config-onprem
+  797  cat .kube/config
+  798  vim .kube/config-onprem
+  799  echo $KUBECONFIG
+  800  k config get-contexts
+  801  k config use-context kubernetes-admin@kubernetes2
+  802  k get no -owide
+  803  k config get-contexts
+  804  k config use-context kubernetes-admin@kubernetes
+  805  k get no -owide
+  806  cd ~
+  807  k config get-contexts
+  808  cat .kube/config-onprem
+  809  vim .kube/config-onprem
+  810  k config get-contexts
+  811  k config use-context kubernetes-admin@kubernetes-onprem
+  812  k get no
+  813  k
+  814  k config use-context kubernetes-admin@kubernetes
+  815  k get no
+  816  k config view
+  817  kubeadm config print 
+  818  cat .kube/config
+  819  k config get-contexts
+  820  k config rename-context kubernetes-admin@kubernetes k8s-gce
+  821  k config get-context
+  822  k config get-contexts
+  823  cd .kube
+  824  ls 
+  825  rm -rf config-onr
+  826  rm -rf config-onprem
+  827  k get no
+  828  vim .kube/config-onprem
+  829  ls -l .kube
+  830  export KUBECONFIG=~/.kube/config:~/.kube/config-onprem
+  831  k config get-contexts
+  832  k config get-contexts 
+  833  k config get-contexts  kubernetes-admin@kubernetes
+  834  k config get-contexts 
+  835  k config get-contexts
+  836  k get no
+  837  k config use-context
+  838  k config use-context kubernetes-admin@kubernetes
+  839  k config get-contexts
+  840  k get no
+  841  k get no -owide
+  842  k config get-contexts
+  843  k get no
+  844  k config use-context k8s-gce
+  845  k get no
+  846  k get po
+  847  k config use-context kubernetes-admin@kubernetes
+  848  k get po
+  849  ls 
+  850  cd .kube/
+  851  ls
+  852  vim config-onprem
+  853  k get no
+  854  k get no -owide
+  855  k config get-contexts
+  856  k get no
+  857  k config view
+  858  vim config-onprem
+  859  k config get-contexts
+  860  export KUBECONFIG=~/.kube/config:~/.kube/config-onprem
+  861  k config get-contexts
+  862  cat config-onprem
+  863  vim config
+  864  vim config-onprem
+  865  k config get-contexts
+  866  k config use-context kubernetes-admin@dev-cluster
+  867  k get no
+  868  exit
+  869  vim config-onprem
+  870  k get no
+  871  hwclock --show
+  872  k get no
+  873  k version
+  874  vim config-onprem
+  875  cd ./
+  876  cd ~/
+  877  cat .ssh/id_rsa.pub
+  878  ssh vagrant@192.168.0.126
+  879  vim config-onprem
+  880  k version
+  881  k get no
+  882  k config current-context 
+  883  k config use-context k8s-gce
+  884  k get no
+  885  k config get-context
+  886  k config get-contexts
+  887  vim .kube/config-onprem
+  888  k config get-contexts
+  889  k config use-context kubernetes-admin@dev-cluster
+  890  k get no
+  891  k config use-context k8s-gce
+  892  k config view
+  893  k get no
+  894  brew install kubectx
+  895  kubectx
+  896  cd .kube
+  897  ls
+  898  cat config
+  899  q
+  900  vim config-onprem
+  901  su root
+  902  sshdlvbn
+  903  sshdlvn
+  904  kubectx
+  905  export KUBECONFIG=~/.kube/config:~/.kube/config-onprem
+  906  kubectx
+  907  kubectx \n: 1631271349:0;kubectx \\nkubectx
+  908  kubectx \nkubectx
+  909  kubectx config-onprem
+  910  kubectx kubernetes-admin@kubernetes
+  911  k
+  912  k get no
+  913  k get no -owide
+  914  kubectx
+  915  k get po
+  916  k get no
+  917  k config use-context kubernetes-admin@kubernetes
+  918  k get no
+  919  k config use-context k8s-gce
+  920  k get no
+  921  export KUBECONFIG=~/.kube/config-onprem
+  922  k get noi
+  923  k get no
+  924  k get no -owide
+  925  k get po -n kube-system
+  926  k cluster-info
+  927  cd /home
+  928  ls
+  929  cd ~
+  930  ls
+  931  cd devops
+  932  ls
+  933  cd temp
+  934  ls
+  935  clear
+  936  k get all
+  937  k delete deployments.apps nginx-deployment
+  938  k get all
+  939  k delete pods nginx
+  940  clear
+  941  k get all
+  942  code .
+  943  k create deployment train-schedule-deployment --image=kienbt/train-schedule:17
+  944  k get deployments.apps
+  945  k get all
+  946  k get pods
+  947  k describe pods train-schedule-deployment-7976d79648-2pg5g
+  948  k get all
+  949  k describe pods train-schedule-deployment-7976d79648-2pg5g
+  950  cat ~/.kube/config
+  951  k get no -owide
+  952  cat ~/.kube/config-onprem
+  953  clear
+  954  sshdlvn
+  955  ls
+  956  cd cicd-pipeline-train-schedule-kubernetes.git
+  957  git push --mirror http://gitlab.do.class/it-division/devopsclass/cicd-pipeline-train-schedule-kubernetes.git
+  958  k get no -owide
+  959  k get po 
+  960  k get all
+  961  k delete deployments.apps train-schedule-deployment
+  962  k get all
+  963  k get po 
+  964  k get po  -owide
+  965  k get all 
+  966  30080
+  967  k get all 
+  968  k get no -owide
+  969  k describe pods train-schedule-deployment-7976d79648-2pg5g
+  970  k get po -owide
+  971  gcloud compute instances list
+  972  cat ~/.kube/config
+  973  k get po -owide
+  974  gcloud compute ssh kube-master
+  975  k get no
+  976  sshvln 
+  977  sshdlvn
+  978  sshdlvn 
+  979  k get namespaces
+  980  k get namespaces default
+  981  k get all
+  982  ..
+  983  k get no
+  984  kubectl create namespace argocd\nkubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
+  985  k get all
+  986  ls
+  987  cd ~
+  988  ls
+  989  cd .kube
+  990  ls
+  991  vim config2
+  992  env
+  993  export KUBECONFIG=/Users/thithi/.kube/config2
+  994  k get no -owide
+  995  cat config2
+  996  export KUBECONFIG=/Users/thithi/.kube/config
+  997  k get no -owide
+  998  export KUBECONFIG=/Users/thithi/.kube/config-onprem
+  999  k get no -owide
+ 1000  export KUBECONFIG=/Users/thithi/.kube/config2
+ 1001  k get no -owide
+ 1002  swapoff -a
+ 1003  k get no -owide
+ 1004  cat config2
+ 1005  k get no
+ 1006  export KUBECONFIG=/Users/thithi/.kube/config
+ 1007  k get no
+ 1008  export KUBECONFIG=/Users/thithi/.kube/config-onprem
+ 1009  k get  no
+ 1010  k get  no -owide
+ 1011  k get all 
+ 1012  k get all  -n argocd
+ 1013  k edit service/argocd-server
+ 1014  k get no 
+ 1015  k get no -owide
+ 1016  k get po -owide
+ 1017  k describe po train-schedule-deployment-6fdbc86455-6
+ 1018  k describe po train-schedule-deployment-6fdbc86455-bwsdq
+ 1019  k get po -owide -n ar
+ 1020  k get all 
+ 1021  export KUBECONFIG=~/.kube/config-onprem
+ 1022  k get no
+ 1023  k get no -owide
+ 1024  k get po
+ 1025  k describe po train-schedule-deployment-799c998956-6q98x
+ 1026  k get all -n argocd
+ 1027  k edit service/argocd-server
+ 1028  k edit services prometheus-grafana
+ 1029  k edit service/argocd-server -n argocd
+ 1030  k get all -n argocd
+ 1031  k get all -n argocd -owide
+ 1032  k get no -owide
+ 1033  kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}" | base64 -d
+ 1034  O5diTLglkJ9s6WdC
+ 1035  cd devops
+ 1036  ls 
+ 1037  cd temm.
+ 1038  cd temp
+ 1039  ls
+ 1040  git clone http://gitlab.do.class/it-division/argocd-deploy-03.git
+ 1041  code .
+ 1042  ls
+ 1043  cd argocd-deploy-03
+ 1044  ls
+ 1045  mkdir deploy
+ 1046  mv * deploy
+ 1047  mv *.yaml deploy/
+ 1048  ls
+ 1049  cd deploy
+ 1050  ls
+ 1051  cd ../
+ 1052  git add .
+ 1053  git commit -m "add new manifest"
+ 1054  git push
+ 1055  git push -u origin master.
+ 1056  git push -u origin master
+ 1057  cat ~/.ssh/id_rsa.pub
+ 1058  cat ~/.ssh/id_rsa
+ 1059  sshdlvn
+ 1060  git add .
+ 1061  git commit -m "add new manifest"
+ 1062  git push
+ 1063  k get all
+ 1064  k delete deployments.apps train-schedule-deployment
+ 1065  k get all
+ 1066  k delete service train-schedule-service
+ 1067  k get all
+ 1068  nslookup kubernetes.default.svc
+ 1069  k get al 
+ 1070  k get all
+ 1071  k get all -n argo-deploy
+ 1072  k get all -n argo-deploy -owide
+ 1073  k get no -owide
+ 1074  clear
+ 1075  cd ~/
+ 1076  ls
+ 1077  cd .k
+ 1078  cd .kube
+ 1079  ls
+ 1080  cat config
+ 1081  q
+ 1082  Q
+ 1083  ls
+ 1084  cp config config-gce
+ 1085  vim config-onprem
+ 1086  vim config-onlap
+ 1087  history | grep export
+ 1088  kubectx
+ 1089  cat ~/.zshrc
+ 1090  Q
+ 1091  cp ~/.zshrc ~/.zshrc.bk
+ 1092  vim ~/.zshrc
+ 1093  source ~/.zshrc
+ 1094  ls
+ 1095  kgce
+ 1096  k get no -owide
+ 1097  konl
+ 1098  k get no -owide
+ 1099  konp
+ 1100  k get no -owide
+ 1101  konl
+ 1102  k get no -owide
+ 1103  k get po
+ 1104  k get deployments.apps
+ 1105  ls
+ 1106  cd .k
+ 1107  cd .kube
+ 1108  cat config-onlap
+ 1109  gcloud
+ 1110  gcloud container clusters create k8s-cluster \\n--zone asia-southeast1-a \\n--cluster-version 1.20.9-gke.2100 \\n--disk-size 100 \\n--disk-type pd-standard \\n--machine-type e2-medium \\n--network default \\n--node-locations asia-southeast1-a \\n--num-nodes=3
+ 1111  gcloud container clusters get-credentials gke-thi --zone asia-southeast1-a --project kubernetes-323609
+ 1112  lss
+ 1113  ls
+ 1114  k get no
+ 1115  history
+ 1116  konp
+ 1117  konl
+ 1118  k get no
+ 1119  konl
+ 1120  k get no
+ 1121  konp
+ 1122  k get no
+ 1123  kgce
+ 1124  k get no
+ 1125  kgol
+ 1126  konl
+ 1127  k get po 
+ 1128  ping 192.168.0.2115
+ 1129  ping 192.168.0.215
+ 1130  konl
+ 1131  k get all
+ 1132  cd ~/.kube
+ 1133  ls
+ 1134  vim config-on
+ 1135  vim config-onlap
+ 1136  [
+ 1137  konl
+ 1138  k get no
+ 1139  vim config-onlap
+ 1140  k get no
+ 1141  vim config-onlap
+ 1142  kopm
+ 1143  konp
+ 1144  k get no
+ 1145  konl
+ 1146  k get
+ 1147  k get all
+ 1148  kgce
+ 1149  k get no
+ 1150  k get no -owide
+ 1151  clear
+ 1152  cd ~
+ 1153  cd devops
+ 1154  cd temp
+ 1155  ls
+ 1156  cd k8s-cka
+ 1157  cd 
+ 1158  cd +
+ 1159  cd -
+ 1160  ls
+ 1161  cd d3_networking
+ 1162  ls
+ 1163  cd 01_networking_fundamentals
+ 1164  kls
+ 1165  ls
+ 1166  kubectl apply -f Deployment.yaml\n
+ 1167  kubectl get pods -o wide\n
+ 1168  PODNAME=$(kubectl get pods --selector=app=hello-world -o jsonpath='{ .items[0].metadata.name }')
+ 1169  kubectl exec -it $PODNAME -- ip addr
+ 1170  kubectl get service --namespace kube-system
+ 1171  kubectl describe deployment coredns --namespace kube-system
+ 1172  konl
+ 1173  env
+ 1174  k get no
+ 1175  The connection to the server 192.168.0.215:6443 was refused - did you specify the right host or port?
+ 1176  telnet 192.168.0.215 6443
+ 1177  telnet 192.168.0.210 6443
+ 1178  kubectl get configmaps --namespace kube-system coredns -o yaml\n
+ 1179  kubectl apply -f DeploymentCustomDns.yaml\n
+ 1180  CUSTOM_PODNAME=$(kubectl get pods --selector=app=hello-world-customdns -o jsonpath='{ .items[0].metadata.name }')\n
+ 1181  kubectl exec -it $CUSTOM_PODNAME -- cat /etc/resolv.conf
+ 1182  PODNAME=$(kubectl get pods --selector=app=hello-world -o jsonpath='{ .items[0].metadata.name }')\n\nkubectl exec -it $PODNAME -- cat /etc/resolv.conf
+ 1183  kubectl run -it --rm bb --image busybox -- bin/sh\n/ # nslookup hello-world\nServer:         10.0.0.10\nAddress:        10.0.0.10:53\n\nName:   hello-world.default.svc.cluster.local\nAddress: 10.0.222.248\n
+ 1184  kubectl run -it --rm bb --image busybox -- bin/sh\n
+ 1185  kubectl create ns myns\n
+ 1186  kubectl run -n myns -it --rm bb1 --image busybox -- bin/sh
+ 1187  telnet 192.168.0.215 6443
+ 1188  ip ad
+ 1189  ifconfig
+ 1190  telnet 192.168.0.215 6443
+ 1191  konl
+ 1192  k getno
+ 1193  k get no
+ 1194  k get no -owide
+ 1195  k get no
+ 1196  k run bb --image busybox
+ 1197  k get po 
+ 1198  k get no
+ 1199  k get no -owide
+ 1200  sshdlvn
+ 1201  konp
+ 1202  k get no
+ 1203  sudo /etc/hosts
+ 1204  sudo vim /etc/hosts
+ 1205  ping gitlab.do.class
+ 1206  k get all
+ 1207  k get all -owide
+ 1208  k get all -owide -n argo
+ 1209  k get all -owide -n argocd
+ 1210  k get no
+ 1211  k get no -owide
+ 1212  kubectl get pods --all-namespaces | grep metrics-server
+ 1213  kubectl get pods --all-namespaces
+ 1214  kubectl get pods  | grep metrics-server
+ 1215  kubectl get pods 
+ 1216  kubectl get pods  -n kube-system
+ 1217  git clone https://github.com/kubernetes-sigs/metrics-server.git\ncd metrics-server\nkubectl apply -f deploy/kubernetes/
+ 1218  ls
+ 1219  cd ~
+ 1220  cd devops/temp
+ 1221  git clone https://github.com/kubernetes-sigs/metrics-server.git
+ 1222  ls
+ 1223  cd metrics-server
+ 1224  ls
+ 1225  cd manifests
+ 1226  ls
+ 1227  cd ./
+ 1228  cd ../
+ 1229  cat cloudbuild.yaml
+ 1230  ls
+ 1231  cloudbuild.yaml
+ 1232  kubectl apply -f 
+ 1233  kubectl apply -f .
+ 1234  k get po -n default
+ 1235  k top
+ 1236  ls
+ 1237  cd scripts
+ 1238  ls
+ 1239  cd ../
+ 1240  k get no
+ 1241  k config current-context
+ 1242  k config get-contexts
+ 1243  k config use-context k8s-gce
+ 1244  ls ~/.kube
+ 1245  cat conf
+ 1246  cat ~/.kube/config
+ 1247  k get no
+ 1248  k get no -owide
+ 1249  k get all
+ 1250  k get no -owide
+ 1251  konp
+ 1252  k get no -owide
+ 1253  kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}" | base64 -d
+ 1254  clear
+ 1255  cd devops/temp
+ 1256  ls
+ 1257  cd k8s-cka/d3_networking/03_ingress
+ 1258  ;s
+ 1259  ls
+ 1260  kubectl create ns ingress-controller\n
+ 1261  k get namespaces
+ 1262  kubectl apply -f https://haproxy-ingress.github.io/resources/haproxy-ingress.yaml\n
+ 1263  clear
+ 1264  k label node kube1 role=ingress-controller
+ 1265  k label node kube2 role=ingress-controller
+ 1266  k label node kube3 role=ingress-controller
+ 1267  k get all -n ingress-controller
+ 1268  code .
+ 1269  k get deployments.app
+ 1270  k get deployments.app -n ingress-controller
+ 1271  k get replicasets.apps -n ingress-controller
+ 1272  k get daemonsets.apps -n ingress-controller
+ 1273  k get daemonsets.apps -n ingress-controller -oyaml
+ 1274  k get no -owide
+ 1275  k get po -n ingress-controller -owide
+ 1276  k get all -n ingress-controller -owide
+ 1277  ping 192.168.0.211
+ 1278  k get all -n ingress-controller -owide
+ 1279  k describe pod/haproxy-ingress-7wjts
+ 1280  k describe pod/haproxy-ingress-7wjts -n ingress-controller 
+ 1281  k get all -n ingress-controller -owide
+ 1282  k get all
+ 1283  k get all -n ingress-controller -owide
+ 1284  ls
+ 1285  k apply -f 1.app-test.yaml
+ 1286  ls
+ 1287  k get all -n ingress-controller -owide
+ 1288  k describe daemonsets.apps haproxy-ingress -n ingress-controller
+ 1289  k get all -n ingress-controller -owide
+ 1290  k describe pod/haproxy-ingress-7wjts -n ingress-controller
+ 1291  ssldlvn
+ 1292  sshdlvn 
+ 1293  k describe pod/haproxy-ingress-7wjts -n ingress-controller
+ 1294  k get all -n ingress-controller -owide
+ 1295  k describe pod/haproxy-ingress-7wjts -n ingress-controller
+ 1296  ls
+ 1297  cd devops/temp
+ 1298  curl https://haproxy-ingress.github.io/resources/haproxy-ingress.yaml
+ 1299  k get all -n ingress-controller -owide
+ 1300  ls
+ 1301  kubectl apply -f 2.app-test-ingress.yaml\n
+ 1302  k get all -n ingress-controller -owide
+ 1303  ls
+ 1304  k get all -n ingress-controller -owide
+ 1305  cat 2.app-test-ingress.yaml
+ 1306  \n
+ 1307  kubectl apply -f 2.app-test-ingress.yaml\n
+ 1308  k get all -n ingress-controller -owide
+ 1309  kubectl apply -f 2.app-test-ingress.yaml\n
+ 1310  k describe pod/haproxy-ingress-wqqhx -n ingress-controller
+ 1311  k get pods -n ingress-controller haproxy-ingress-7wjts
+ 1312  k get all -n ingress-controller -owide
+ 1313  k get pods -n ingress-controller haproxy-ingress-7wjts
+ 1314  k get pods -n ingress-controller haproxy-ingress-7wjts -oyaml
+ 1315  k get all -n ingress-controller -owide
+ 1316  k get pods -n ingress-controller haproxy-ingress-7wjts -oyaml
+ 1317  k edit pod -n ingress-controller haproxy-ingress-nssb9
+ 1318  k get all -n ingress-controller -owide
+ 1319  k edit pod -n ingress-controller haproxy-ingress-nssb9
+ 1320  k get all -n ingress-controller -owide
+ 1321  k edit pod -n ingress-controller haproxy-ingress-wqqhx
+ 1322  k get all -n ingress-controller -owide
+ 1323  watch -n 1k get all -n ingress-controller -owide
+ 1324  watch -n 1 k get all -n ingress-controller -owide
+ 1325  watch -n 1 kubectl get all -n ingress-controller -owide
+ 1326  k edit pod -n ingress-controller haproxy-ingress-wqqhx
+ 1327  k get all -n ingress-controller -owide
+ 1328  k edit pod -n ingress-controller haproxy-ingress-wqqhx
+ 1329  k get no -owide
+ 1330  k get all -n ingress-controller -owide
+ 1331  ls
+ 1332  k delete -f https://haproxy-ingress.github.io/resources/haproxy-ingress.yaml
+ 1333  k get no
+ 1334  k get all -n default
+ 1335  k get all -n argo
+ 1336  k get all -n argocd
+ 1337  k get all -n argo-deploy
+ 1338  kubectl apply -f nginx-ingress.yaml\n
+ 1339  kubectl get pods --namespace ingress-nginx\n
+ 1340  kubectl get services --namespace ingress-nginx\n
+ 1341  vim nginx-ingress.yaml
+ 1342  git add .
+ 1343  git commit -m "Fix syntax for gke version >1.19"
+ 1344  ls
+ 1345  rm 1.app-test.yaml
+ 1346  rm 2.app-test-ingress.yaml
+ 1347  cat ingress-tls
+ 1348  cat ingress-tls.yaml
+ 1349  git add .
+ 1350  git commit -m "Fix syntax for gke version >1.19"
+ 1351  git push 
+ 1352  k edit pod -n ingress-controller haproxy-ingress-wqqhx
+ 1353  k get no
+ 1354  k get all
+ 1355  ls
+ 1356  k get ns
+ 1357  k get all -n ingress-nginx
+ 1358  k edit service/ingress-nginx-controller -n ingress-nginx
+ 1359  helm list \n
+ 1360  sshdlvn
+ 1361  k get all -n ingress-nginx
+ 1362  k get all -n default
+ 1363  k geta ll
+ 1364  k get all
+ 1365  cat /etc/hosts
+ 1366  sudo vim /etc/hosts
+ 1367  k get ns
+ 1368  ls
+ 1369  k apply -f 1.app-test.yaml
+ 1370  k get all -n ingress-nginx
+ 1371  ping thi.do.class
+ 1372  k apply -f 2.app-test-ingress.yaml
+ 1373  k get po
+ 1374  k get po -n ingress-nginx
+ 1375  k get svc -n ingress-nginx
+ 1376  k apply -f 2.app-test-ingress.yaml
+ 1377  curl thi.do.class
+ 1378  k get all -n ingress-nginx
+ 1379  k get ing -n ingress-nginx
+ 1380  k apply -f 2.app-test-ingress.yaml
+ 1381  cat /etc/hosts
+ 1382  k apply -f 2.app-test-ingress.yaml
+ 1383  curl thi.do.class
+ 1384  k get in 
+ 1385  k get ing 
+ 1386  k get ing  -n ingress-nginx
+ 1387  k describe ing app -n ingress-nginx
+ 1388  kubectl create deployment hello-world-loadbalancer --image=gcr.io/google-samples/hello-app:1.0\n
+ 1389  k get all
+ 1390  k get svc hello-world-loadbalancer
+ 1391  k describe service hello-world-loadbalancer
+ 1392  k get svc hello-world-loadbalancer
+ 1393  k edit service hello-world-loadbalancer
+ 1394  .
+ 1395  k delete -f nginx-ingress.yaml
+ 1396  k get all
+ 1397  k delete -f *.yaml
+ 1398  k delete -f .
+ 1399  k get all
+ 1400  k delete -f 2.app-test-ingress.yaml
+ 1401  k delete -f 1.app-test-ingress.yaml
+ 1402  k del replicaset.apps/hello-world-loadbalancer-86d5cd9c78
+ 1403  k delete replicaset.apps/hello-world-loadbalancer-86d5cd9c78
+ 1404  k get all
+ 1405  k delete deployments.apps hello-world-loadbalancer
+ 1406  k get all
+ 1407  k delete service hello-world-loadbalancer
+ 1408  k get all
+ 1409  $ kubectl apply -f https://raw.githubusercontent.com/haproxytech/kubernetes-ingress/v1.6/deploy/haproxy-ingress.yaml\n
+ 1410  k get all
+ 1411  curl https://raw.githubusercontent.com/haproxytech/kubernetes-ingress/v1.6/deploy/haproxy-ingress.yaml
+ 1412  k apply -f  https://raw.githubusercontent.com/haproxytech/kubernetes-ingress/v1.6/deploy/haproxy-ingress.yaml
+ 1413  kubectl get pods -A
+ 1414  k get ns
+ 1415  k get all -n haproxy-controller
+ 1416  k delete -f  https://raw.githubusercontent.com/haproxytech/kubernetes-ingress/v1.6/deploy/haproxy-ingress.yaml
+ 1417  k get all
+ 1418  k get ns
+ 1419  kubectl create ns ingress-controller
+ 1420  kubectl apply -f https://haproxy-ingress.github.io/resources/haproxy-ingress.yaml\n
+ 1421  k get all -n ingress-controller
+ 1422  k label nodes kube1 role=ingress-controller.
+ 1423  k label nodes kube1 role=ingress-controller
+ 1424  kubectl get all -n ingress-controller
+ 1425  ping thi.do.class
+ 1426  ls
+ 1427  k apply -f 1.app-test.yaml
+ 1428  k apply -f 2.app-test-ingress.yaml
+ 1429  curl thi.do.class
+ 1430  k get all
+ 1431  k get all -n ingress-controller
+ 1432  k delete -f 2.app-test-ingress.yaml
+ 1433  k get all -n ingress-controller
+ 1434  k delete -f 1.app-test.yaml
+ 1435  k get all -n ingress-controller
+ 1436  kubectl delete -f https://haproxy-ingress.github.io/resources/haproxy-ingress.yaml\n
+ 1437  brew install helm\n
+ 1438  helm
+ 1439  $ helm repo add haproxy-ingress https://haproxy-ingress.github.io/charts\n
+ 1440  k cluster-info
+ 1441  helm install haproxy-ingress haproxy-ingress/haproxy-ingress\\n  --create-namespace --namespace ingress-controller\\n  --version 0.13.3\\n  -f haproxy-ingress-values.yaml
+ 1442  kubectl --namespace ingress-controller get services haproxy-ingress -o wide -w
+ 1443  k get all -n ingress-controller
+ 1444  kubectl --namespace default create deployment echoserver --image k8s.gcr.io/echoserver:1.3
+ 1445  kubectl --namespace default expose deployment echoserver --port=8080
+ 1446  k get po -w
+ 1447  k get po -owide
+ 1448  vim /etc/hostsw
+ 1449  vim /etc/hosts
+ 1450  sudo vim /etc/hosts
+ 1451  ping echoserver.local
+ 1452  kubectl --namespace default create ingress echoserver\\n  --annotation kubernetes.io/ingress.class=haproxy\\n  --rule="echoserver.local/*=echoserver:8080"
+ 1453  ping echoserver.local
+ 1454  curl -k https://echoserver.local
+ 1455  curl -k http://echoserver.local
+ 1456  wget -qO- --no-check-certificate https://echoserver.local
+ 1457  k get scv
+ 1458  k get svc
+ 1459  kubectl --namespace default expose deployment echoserver --port=8080 -type=NODEPORT
+ 1460  kubectl --namespace default expose deployment echoserver --port=8080 --type=NODEPORT
+ 1461  kubectl --namespace default expose deployment echoserver --port=8080 --type=NodePort
+ 1462  k edit svc echoserver
+ 1463  k get svc
+ 1464  curl echoserver.local:31234
+ 1465  kubectl create deployment hello-world-nodeport --image=gcr.io/google-samples/hello-app:1.0\n
+ 1466  kubectl expose deployment hello-world-nodeport --port=80 --target-port=8080 --type NodePort\n
+ 1467  kubectl get svc hello-world-nodeport\n
+ 1468  CLUSTERIP=$(kubectl get service hello-world-nodeport -o jsonpath='{ .spec.clusterIP }')\nPORT=$(kubectl get service hello-world-nodeport -o jsonpath='{ .spec.ports[].port }')\nNODEPORT=$(kubectl get service hello-world-nodeport -o jsonpath='{ .spec.ports[].nodePort }')\n
+ 1469  kubectl run bb -it --rm --image radial/busyboxplus:curl --restart Never -- curl http://$CLUSTERIP:$PORT\n
+ 1470  echo $PORT
+ 1471  k get all
+ 1472  k get all -owide
+ 1473  curl 192.168.0.211:31234
+ 1474  k edit deployments.apps echoserver
+ 1475  k get all -owide
+ 1476  curl -k https://echoserver.local
+ 1477  curl 192.168.0.211:31234
+ 1478  kgce
+ 1479  k get no -owide
+ 1480  kubectl create namespace argocd\n
+ 1481  kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml\n
+ 1482  k get all -n argocd
+ 1483  k get all -n argocd -w
+ 1484  watch -n 1kubectl  get all -n argocd 
+ 1485  watch -n 1 kubectl  get all -n argocd 
+ 1486  clear
+ 1487  k get no
+ 1488  konp
+ 1489  k get all -n argocd
+ 1490  k edit svc service/argocd-server
+ 1491  k edit svc service/argocd-server -n argocd
+ 1492  k edit service argocd-server -n argocd
+ 1493  k get all -n argocd
+ 1494  k get po -owide
+ 1495  k get po -owide -n agrocd
+ 1496  k get po -owide -n argocd
+ 1497  k get no -owide
+ 1498  ls
+ 1499  k apply -f nginx-ingress.yaml
+ 1500  k get all -n ingress-nginx
+ 1501  k edit service argocd-server -n argocd
+ 1502  k get all -n ingress-nginx
+ 1503  k get po -owide -n argocd
+ 1504  k get all -n ingress-nginx
+ 1505  k get all -n argocd
+ 1506  nslookup
+ 1507  k get po -owide -n argocd
+ 1508  k get all -n argocd
+ 1509  kubectl create deployment hello-world-loadbalancer --image=gcr.io/google-samples/hello-app:1.0\n
+ 1510  kubectl expose deployment hello-world-loadbalancer --port=80 --target-port=8080 --type LoadBalancer\n
+ 1511  kubectl get svc hello-world-loadbalancer\n
+ 1512  k describe svc hello-world
+ 1513  k describe svc hello-world-loadbalancer
+ 1514  k get po -owide
+ 1515  gcloud container clusters get-credentials gke --zone asia-southeast1-a --project kubernetes-32360
+ 1516  gcloud container clusters get-credentials gke --zone asia-southeast1-a --project kubernetes-323609
+ 1517  k get no
+ 1518  k get no -owide
+ 1519  clear
+ 1520  cat .kube/config
+ 1521  k get no -owide
+ 1522  k get po
+ 1523  kubectl create deployment hello-world-clusterip --image=gcr.io/google-samples/hello-app:1.0\n
+ 1524  kubectl expose deployment hello-world-clusterip --port=80 --target-port=8080 --type ClusterIP\n
+ 1525  k get service
+ 1526  SERVICEIP=$(kubectl get service hello-world-clusterip -o jsonpath='{ .spec.clusterIP }')\necho $SERVICEIP\n
+ 1527  kubectl run bb -it --rm --image radial/busyboxplus:curl --restart Never -- curl http://$SERVICEIP\n
+ 1528  kubectl run bb -it --rm --image radial/busyboxplus:curl --restart Never -- curl http://hello-world-clusterip\n
+ 1529  kubectl get endpoints hello-world-clusterip\n
+ 1530  k get node -owide 
+ 1531  k get po 
+ 1532  k get po  -owide
+ 1533  kubectl get endpoints hello-world-clusterip\n
+ 1534  kubectl scale deployment hello-world-clusterip --replicas=3
+ 1535  kubectl get endpoints hello-world-clusterip\n
+ 1536  k get po -owide
+ 1537  kubectl create deployment hello-world-nodeport --image=gcr.io/google-samples/hello-app:1.0\n
+ 1538  kubectl expose deployment hello-world-nodeport --port=80 --target-port=8080 --type NodePort\n
+ 1539  k get svc
+ 1540  k get po -owide
+ 1541  CLUSTERIP=$(kubectl get service hello-world-nodeport -o jsonpath='{ .spec.clusterIP }')
+ 1542  echo $CLUSTERIP
+ 1543  PORT=$(kubectl get service hello-world-nodeport -o jsonpath='{ .spec.ports[].port }')
+ 1544  echo $PORT
+ 1545  NODEPORT=$(kubectl get service hello-world-nodeport -o jsonpath='{ .spec.ports[].nodePort }')
+ 1546  echo $NODEPORT
+ 1547  k get no -owide
+ 1548  kubectl run bb -it --rm --image radial/busyboxplus:curl --restart Never -- curl http://$CLUSTERIP:$PORT\n
+ 1549  kubectl create deployment hello-world-loadbalancer --image=gcr.io/google-samples/hello-app:1.0\n
+ 1550  kubectl expose deployment hello-world-loadbalancer --port=80 --target-port=8080 --type LoadBalancer\n
+ 1551  k get svc
+ 1552  kubectl get svc hello-world-loadbalancer\n
+ 1553  LOADBALANCERIP=$(kubectl get service hello-world-loadbalancer -o jsonpath='{ .status.loadBalancer.ingress[].ip }')\ncurl http://$LOADBALANCERIP:$PORT\n
+ 1554  LOADBALANCERIP=$(kubectl get service hello-world-loadbalancer -o jsonpath='{ .status.loadBalancer.ingress[].ip }')\n
+ 1555  kubectl get svc hello-world-loadbalancer\n
+ 1556  echo $LOADBALANCERIP
+ 1557  curl http://$LOADBALANCERIP:80
+ 1558  cd devops/temp
+ 1559  cd k8s-cka/d3_networking/03_ingress
+ 1560  ls
+ 1561  k get no
+ 1562  kubectl apply -f nginx-ingress.yaml\n
+ 1563  kubectl get pods --namespace ingress-nginx\n
+ 1564  kubectl get services --namespace ingress-nginx\n
+ 1565  kubectl get ing\n
+ 1566  nslookup gke.dinhdobathi.com
+ 1567  kubectl create deployment hello-world-service-blue --image=gcr.io/google-samples/hello-app:1.0\nkubectl create deployment hello-world-service-red  --image=gcr.io/google-samples/hello-app:1.0\nkubectl expose deployment hello-world-service-blue --port=4343 --target-port=8080 --type=ClusterIP\nkubectl expose deployment hello-world-service-red  --port=4242 --target-port=8080 --type=ClusterIP\n
+ 1568  kubectl apply -f ingress-path.yaml\n
+ 1569  k get ing
+ 1570  curl http://34.126.144.69/red --header 'Host: gke.dinhdobathi.com'
+ 1571  k get ing
+ 1572  curl http://34.126.144.69/blue --header 'Host: gke.dinhdobathi.com'
+ 1573  kubectl apply -f ingress-path-backend.yaml\n
+ 1574  curl http://34.126.144.69/ --header 'Host: gke.dinhdobathi.com'
+ 1575  curl http://34.126.144.69/red --header 'Host: gke.dinhdobathi.com'
+ 1576  k get svc
+ 1577  k get all 
+ 1578  k get all -n arg
+ 1579  kubectl create namespace argocd\nkubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
+ 1580  k get all -n argocd
+ 1581  k get ns 
+ 1582  k get secrets
+ 1583  k get secrets -n argocd
+ 1584  k apply -f ingress-argocd.yaml
+ 1585  k get ing
+ 1586  k get all 
+ 1587  k get all -n argocd
+ 1588  k get ing -n argocd
+ 1589  k apply -f ingress-argocd.yaml
+ 1590  k get ing -n argocd
+ 1591  k apply -f ingress-argocd.yaml
+ 1592  k get all -n argocd
+ 1593  k apply -f ingress-argocd.yaml
+ 1594  k get all -n argocd
+ 1595  k get ing -n argocd
+ 1596  k apply -f ingress-argocd.yaml
+ 1597  kubectl patch svc argocd-server -n argocd -p '{"spec": {"type": "LoadBalancer"}}'\n
+ 1598  k get ing -n argocd
+ 1599  k get all -n argocd 
+ 1600  k get svc -n argocd
+ 1601  nslookup gke.dinhdobathi.com1
+ 1602  nslookup gke.dinhdobathi.com
+ 1603  kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}" | base64 -d\n
+ 1604  ls
+ 1605  cd argocd-deploy-03
+ 1606  ls
+ 1607  cd deploy
+ 1608  ls
+ 1609  ls -la
+ 1610  cd ../
+ 1611  echo "# k8s-manifest" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/dinhdobathi1992/k8s-manifest.git\ngit push -u origin main
+ 1612  ls
+ 1613  cd ../
+ 1614  ls
+ 1615  git clone https://github.com/dinhdobathi1992/k8s-manifest.git
+ 1616  cd k8s-manifest
+ 1617  cd ../
+ 1618  cp -R  temp/argocd-deploy-03 k8s-manifest
+ 1619  cd k8s-manifest
+ 1620  ls
+ 1621  mv -R argocd-deploy-03/* .
+ 1622  mv  argocd-deploy-03/* .
+ 1623  ls
+ 1624  cd deploy
+ 1625  ls
+ 1626  cd ../
+ 1627  rm -rf argocd-deploy-03
+ 1628  git add .
+ 1629  git commit -m "add manifest"
+ 1630  git push
+ 1631  git push -u origin main
+ 1632  git push -u origin
+ 1633  ls -la
+ 1634  git status
+ 1635  git branch --unset-upstream
+ 1636  git status
+ 1637  ls
+ 1638  git commit -m "first commit"\ngit branch -M main
+ 1639  echo "# k8s-manifest" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/dinhdobathi1992/k8s-manifest.git\ngit push -u origin main
+ 1640  k get all 
+ 1641  k get all  -n argo-deploy
+ 1642  k get all  -n argo-deploy -owide
+ 1643  k get no -owide
+ 1644  k get service svc3 -n argo-deploy
+ 1645  k get service svc3 -n argo-deploy -oyaml
+ 1646  k get no
+ 1647  konp
+ 1648  k get no
+ 1649  konp
+ 1650  k
+ 1651  k get no
+ 1652  sshdlvn
+ 1653  vim .kube/config-onprem
+ 1654  konp
+ 1655  k get no
+ 1656  sshdlvn
+ 1657  vim .kube/config-onprem
+ 1658  konp
+ 1659  k get no
+ 1660  k get no -owide
+ 1661  ssh root@192
+ 1662  ssh root@192.168.0.218
+ 1663  k get no -owide
+ 1664  k get all
+ 1665  k get all -n ingress-controller
+ 1666  history
+ 1667  ls
+ 1668  cd devops/temp/k8s-cka
+ 1669  ls
+ 1670  cd d3_networking/03_ingress
+ 1671  ls
+ 1672  k delete -f */yaml
+ 1673  k delete -f *.yaml1
+ 1674  k delete -f *.yaml
+ 1675  k delete -f ingress-
+ 1676  k delete -f nginx-ingress.yaml
+ 1677  k get ns
+ 1678  k get all -n ingress-controller
+ 1679  k delete -f  https://raw.githubusercontent.com/haproxytech/kubernetes-ingress/v1.6/deploy/haproxy-ingress.yaml
+ 1680  history | grep haproxy
+ 1681  k delete -f https://haproxy-ingress.github.io/resources/haproxy-ingress.yaml
+ 1682  k get all -n ingress-controller
+ 1683  k get all ns
+ 1684  k get ns
+ 1685  kubectl label nodes kmaster node-type=master\n
+ 1686  k get no
+ 1687  kubectl get nodes --show-labels\n
+ 1688  kubectl label nodes kube1 node-type=master\n
+ 1689  kubectl get nodes --show-labels | grep node-type\n
+ 1690  kubectl create namespace traefik\n
+ 1691  helm repo add traefik https://containous.github.io/traefik-helm-chart\n
+ 1692  helm repo update\n
+ 1693  helm search repo traefik
+ 1694  clear
+ 1695  kubectl apply -f https://raw.githubusercontent.com/traefik/traefik/v1.7/examples/k8s/traefik-rbac.yaml
+ 1696  k version --short
+ 1697  k get cluster-info
+ 1698  k get clusterrole
+ 1699  k get clusterrole traefik-ingress-controller
+ 1700  k describe traefik-ingress-controller
+ 1701  k describe clusterrole traefik-ingress-controller
+ 1702  k get all -n kube-system
+ 1703  k get all -n kube-system | grep traefik
+ 1704  kubectl apply -f https://raw.githubusercontent.com/traefik/traefik/v1.7/examples/k8s/traefik-ds.yaml
+ 1705  k get all -n kube-system | grep traefik
+ 1706  clear
+ 1707  k get all -n kube-system | grep traefik
+ 1708  k get all -n kube-system 
+ 1709  ls
+ 1710  cat nginx-ingress.yaml ingress-path.yaml
+ 1711  cat ningress-path.yaml
+ 1712  cat ingress-path.yaml
+ 1713  code .
+ 1714  ls
+ 1715  clear
+ 1716  k create -f ingress-deploy-blue.yaml
+ 1717  k get po 
+ 1718  mkdir webdata
+ 1719  k create -f ingress-deploy-blue.yaml
+ 1720  cd ../
+ 1721  ls
+ 1722  cd ..//
+ 1723  ls
+ 1724  cd d2_workloads
+ 1725  ls
+ 1726  cd 03_deploy_app
+ 1727  ls
+ 1728  cd 01-rollout-basic
+ 1729  ls
+ 1730  cat deployment.yaml
+ 1731  ls 
+ 1732  cd ../
+ 1733  ls
+ 1734  cd ../
+ 1735  ls
+ 1736  cd ..
+ 1737  ls
+ 1738  cd d4_storage
+ 1739  ls
+ 1740  cd ../
+ 1741  grep | Deployment
+ 1742  grep Deployment
+ 1743  find / -type f| grep deploy
+ 1744  ls 
+ 1745  cd d3_networking
+ 1746  cd 03_ingress
+ 1747  ls
+ 1748  k create -f ingress-deploy-blue.yaml
+ 1749  k convert -f ingress-deploy-blue.yaml --output-version apps/v1
+ 1750  k explain deploy
+ 1751  k create -f ingress-deploy-blue.yaml
+ 1752  pwd
+ 1753  ls
+ 1754  /Users/thithi/devops/temp/k8s-cka/d3_networking/03_ingress
+ 1755  k create -f ingress-deploy-blue.yaml
+ 1756  k create -f podtest.yaml
+ 1757  kubectl create deployment hello-world-service-blue --image=gcr.io/google-samples/hello-app:1.0\nkubectl create deployment hello-world-service-red  --image=gcr.io/google-samples/hello-app:1.0\nkubectl expose deployment hello-world-service-blue --port=80 --target-port=8080 --type=ClusterIP\nkubectl expose deployment hello-world-service-red  --port=80 --target-port=8080 --type=ClusterIP
+ 1758  k get service
+ 1759  k get po -owide
+ 1760  3
+ 1761  k exec po 
+ 1762  k exec hello-world-service-blue-7f9fb4f798-x7clj -it -- /bin/sh 
+ 1763  ls 
+ 1764  k apply -f ingress-deploy-blue.yaml
+ 1765  k get po -owide
+ 1766  k delete pod hello-world-service-blue-7f9fb4f798-x7clj
+ 1767  k get po -owide
+ 1768  k delete pod hello-world-service-red-85b6d9bfbc-rs5kw
+ 1769  k get po 
+ 1770  k delete deployments.apps hello-world-service-blue
+ 1771  k delete deployments.apps hello-world-service-red
+ 1772  k get po
+ 1773  k apply -f ingress-deploy-blue.yaml
+ 1774  k get po 
+ 1775  k delete deployments.apps nginx-deployment
+ 1776  k get po 
+ 1777  k exec nginx-deployment-blue-66b6c48dd5-g7szs -it -- /bin/bash
+ 1778  exit
+ 1779  cd devops/temp/k8s-cka/d3_networking/03_ingress
+ 1780  k get no
+ 1781  konp
+ 1782  k get no
+ 1783  k get po 
+ 1784  ls
+ 1785  k apply -f ingress-deploy-red.yaml
+ 1786  k get po 
+ 1787  ls
+ 1788  k get svc
+ 1789  k get po -owide
+ 1790  k get deployments.apps
+ 1791  k expose deployment nginx-deployment-blue --port=80 --target-port=80 --type=ClusterIP
+ 1792  k expose deployment nginx-deployment-red --port=80 --target-port=80 --type=ClusterIP
+ 1793  k get svc
+ 1794  k detele svc 
+ 1795  k delete svc hello-world-service-blue 
+ 1796  k delete svc hello-world-service-red
+ 1797  k get svc
+ 1798  k delete svc hello-world-nodeport
+ 1799  k get svc
+ 1800  sudo vim /etc/hosts
+ 1801  ls
+ 1802  ll
+ 1803  k create -f ingress-namebased.yaml
+ 1804  k get ing
+ 1805  k delete ingress ingress-namebased
+ 1806  k create -f ingress-namebased.yaml
+ 1807  k get ing
+ 1808  k delete ingresses.networking.k8s.io
+ 1809  k delete ingresses.networking.k8s.io echoserver
+ 1810  k delete ingresses.networking.k8s.io nginx
+ 1811  k delete ingresses.networking.k8s.io 
+ 1812  k create -f ingress-namebased.yaml
+ 1813  k delete ingressclasses.networking.k8s.io nginx
+ 1814  k create -f ingress-namebased.yaml
+ 1815  k delete ingresses.networking.k8s.io ingress-namebased
+ 1816  k create -f ingress-namebased.yaml
+ 1817  k describe ingress
+ 1818  k get po 
+ 1819  k get po  -owide
+ 1820  telnet red.example.com 
+ 1821  telnet red.example.com 80
+ 1822  k  get svc
+ 1823  k describe pod nginx-deployment-blue-66b6c48dd5-g7szs
+ 1824  k apply -f ingress-namebased.yaml
+ 1825  k get all 
+ 1826  k get in 
+ 1827  k get ing 
+ 1828  k desc ingress-namebased.yaml
+ 1829  k describe ingress-namebased.yaml
+ 1830  k describe ingress ingress-namebased
+ 1831  k delete ingress ingress-namebased
+ 1832  k  get ingressclasses.networking.k8s.io
+ 1833  k  delete  ingressclasses.networking.k8s.io nginx
+ 1834  k  get ingressclasses.networking.k8s.io
+ 1835  k get ingresses.extensions
+ 1836  k apply -f ingress-namebased.yaml
+ 1837  k describe ingress ingress-namebased
+ 1838  curl http://192.168.0.218
+ 1839  curl http://192.168.0.212
+ 1840  curl http://192.168.0.211
+ 1841  k get no -owide
+ 1842  k get scv
+ 1843  k get svc
+ 1844  k run bb --image=busybox
+ 1845  k detel pod bb
+ 1846  k delete pod bb
+ 1847  k run bb --image=busybox
+ 1848  k get po 
+ 1849  k get po
+ 1850  k describe pod bb
+ 1851  k get po
+ 1852  k delete pod bb
+ 1853  k run tools --image=ichte/coretools
+ 1854  k get po
+ 1855  k describe po tools l
+ 1856  k describe po tools 
+ 1857  k get po
+ 1858  k describe po tools 
+ 1859  k get po
+ 1860  k get po -owide
+ 1861  k exec nginx-deployment-blue-66b6c48dd5-g7szs -it -- /bin/bash
+ 1862  k get svc
+ 1863  k get in 
+ 1864  k get ing 
+ 1865  k describe ingress
+ 1866  history | grep expose
+ 1867  k describe pod nginx-deployment-blue-66b6c48dd5-g7szs
+ 1868  k apply -f ingress-deploy-red.yaml ingress-deploy-blue.yaml ingress-namebased.yaml  
+ 1869  k apply -f ingress-deploy-red.yaml
+ 1870  k apply -f ingress-deploy-blue.yaml
+ 1871  k describe pod nginx-deployment-blue-66b6c48dd5-g7szs
+ 1872  k get po 
+ 1873  k describe pod nginx-deployment-blue-64bd7b69c-xplsw
+ 1874  k apply -f ingress-namebased.yaml
+ 1875  k describe ing
+ 1876  k get svc
+ 1877  history | grep expose
+ 1878  k expose deployment nginx-deployment-blue --port=80 --target-port=8080 --type=ClusterIP
+ 1879  k edit deployments.apps nginx-deployment-blue
+ 1880  k delete deployments.apps nginx-deployment-blue
+ 1881  k delete deployments.apps nginx-deployment-red
+ 1882  k expose deployment nginx-deployment-blue --port=80 --target-port=8080 --type=ClusterIP
+ 1883  k get svc
+ 1884  k delete svc nginx-deployment-blue
+ 1885  k delete svc nginx-deployment-red
+ 1886  k apply -f ingress-deploy-red.yaml
+ 1887  k apply -f ingress-deploy-blue.yaml
+ 1888  k expose deployment nginx-deployment-blue --port=80 --target-port=80 --type=ClusterIP
+ 1889  k expose deployment nginx-deployment-red --port=80 --target-port=8080 --type=ClusterIP
+ 1890  k edit svc nginx-deployment-blue
+ 1891  k get svc
+ 1892  k get deployments.apps
+ 1893  k get deployments.apps -owide
+ 1894  k apply -f ingress-namebased.yaml
+ 1895  k get svc
+ 1896  k apply -f podtest.yaml
+ 1897  k create -f podtest.yaml
+ 1898  k delete -f podtest.yaml
+ 1899  k apply -f podtest.yaml
+ 1900  watch -n 1 kubectl get po 
+ 1901  k exec tools -it -- /bin/bash
+ 1902  k get po -owide
+ 1903  k exec tools -it -- curl http://10.244.2.38
+ 1904  k describe pod nginx-deployment-blue-64bd7b69c-9n7rv
+ 1905  k exec tools -it -- curl http://10.244.2.38:8080
+ 1906  k exec tools -it -- curl http://10.244.2.38:80
+ 1907  clear
+ 1908  k get all
+ 1909  k delete deployments.apps nginx-deployment-blue
+ 1910  k delete deployments.apps nginx-deployment-red
+ 1911  k get all
+ 1912  k delete deployments.apps echoserver
+ 1913  k delete deployments.apps hello-world-nodeport
+ 1914  k get all
+ 1915  k delete svc nginx-deployment-blue
+ 1916  k delete svc nginx-deployment-red
+ 1917  k delete deployments.apps 
+ 1918  k get all
+ 1919  k delete svc echoserver
+ 1920  k get all
+ 1921  k apply -f  ingress-deploy-blue.yaml
+ 1922  k apply -f  ingress-deploy-red.yaml
+ 1923  k get deploy
+ 1924  k apply -f  ingress-deploy-blue.yaml
+ 1925  k get deploy
+ 1926  k expose deployment nginx-deployment-blue --port 80 --target-port 80 
+ 1927  k expose deployment nginx-deployment-red --port 80 --target-port 80 
+ 1928  k get all
+ 1929  k apply -f ingress-namebased.yaml
+ 1930  k get po -owide
+ 1931  k exec tools -it -- /bin/bash
+ 1932  k get in 
+ 1933  k get ing
+ 1934  k describe ingress
+ 1935  k delete ingress
+ 1936  k delete ingress ingress-namebased
+ 1937  k apply -f ingress-namebased.yaml
+ 1938  k describe ing
+ 1939  k get po 
+ 1940  helm install traefik traefik/traefik\n
+ 1941  kubectl port-forward $(kubectl get pods --selector "app.kubernetes.io/name=traefik" --output=name) 9000:9000\n
+ 1942  k get po 
+ 1943  k get all
+ 1944  kubectl port-forward $(kubectl get pods --selector "app.kubernetes.io/name=traefik" --output=name) 9000:9000\n
+ 1945  kubectl port-forward $(kubectl get pods --selector "app.kubernetes.io/name=traefik" --output=name) 9000:9000 & \n
+ 1946  clear
+ 1947  k get no -owide
+ 1948  k get all 
+ 1949  helm uninstall
+ 1950  helm uninstall traefik
+ 1951  k get all
+ 1952  clear
+ 1953  k apply -f https://github.com/traefik/traefik/blob/v1.7/examples/k8s/traefik-ds.yaml
+ 1954  curl  https://github.com/traefik/traefik/blob/v1.7/examples/k8s/traefik-ds.yaml
+ 1955  k apply -f https://github.com/traefik/traefik/blob/v1.7/examples/k8s/traefik-ds.yaml
+ 1956  k apply -f traefik-ds.yaml
+ 1957  k get all
+ 1958  k get all -n kube-system
+ 1959  k get all
+ 1960  k get ing
+ 1961  k describe ing
+ 1962  k get deployments.apps
+ 1963  ls
+ 1964  k apply -f ingress-deploy-red.yaml
+ 1965  k delete deployments.apps nginx-deployment-red
+ 1966  k apply -f ingress-deploy-red.yaml
+ 1967  k get deployments.apps
+ 1968  k get svc
+ 1969  k describe svc nginx-deployment-red
+ 1970  k edit svc nginx-deployment-red
+ 1971  k describe svc nginx-deployment-red
+ 1972  k describe ing
+ 1973  cat /etc/hosts
+ 1974  telnet 192.168.0.218 80
+ 1975  sshdlvn
+ 1976  k get po 
+ 1977  k get po  -owide
+ 1978  k exec nginx-deployment-blue-66b6c48dd5-r6vjt -it -- /bin/bashj
+ 1979  k exec nginx-deployment-blue-66b6c48dd5-r6vjt -it -- /bin/bash
+ 1980  history
+ 1981  konp
+ 1982  k get no
+ 1983  k get po 
+ 1984  k get po  -owide
+ 1985  k get all -n kube-system
+ 1986  k get all -n kube-system -owide
+ 1987  k logs pod/traefik-ingress-controller-4qbp9
+ 1988  k logs pod/traefik-ingress-controller-4qbp9 -n kube-system
+ 1989  k get all -n kube-system
+ 1990  k get all -n kube-system -owide
+ 1991  k logs pod/traefik-ingress-controller-r87vh -n kube-system
+ 1992  k logs pod/traefik-ingress-controller-r87vh -n kube-system -f
+ 1993  k logs pod/traefik-ingress-controller-m9cr2 -n kube-system -f
+ 1994  k logs pod/traefik-ingress-controller-t44jg -n kube-system -f
+ 1995  k get ingress ingress-namebased -oyaml
+ 1996  cd devops/temp/k8s-cka/d3_networking/03_ingress
+ 1997  k delete -f ingress-deploy-red.yaml
+ 1998  k delete -f ingress-deploy-blue
+ 1999  k delete -f ingress-deploy-blue.yaml
+ 2000  k delete -f traefik-ds.yaml
+ 2001  ls
+ 2002  k get all
+ 2003  k delete svc nginx-deployment-blue
+ 2004  k delete svc nginx-deployment-red
+ 2005  k get lal
+ 2006  k get all
+ 2007  k get all -n kube-system
+ 2008  helm uninstall 
+ 2009  helm installed
+ 2010  helm install 
+ 2011  helm install  llist
+ 2012  helm list
+ 2013  ls
+ 2014  k apply -f ingress-deploy-red.yaml
+ 2015  k get po
+ 2016  k get svc
+ 2017  ls
+ 2018  cd ../
+ 2019  code .
+ 2020  k delete -f d3_networking/03_ingress/ingress-deploy-red.yaml
+ 2021  k apply -f d3_networking/03_ingress/ingress-deploy-blue.yaml
+ 2022  k get lal
+ 2023  k get al
+ 2024  k get all
+ 2025  k describe svc nginx-service-blue
+ 2026  k edit
+ 2027  k edit svc nginx-service-blue
+ 2028  k describe svc nginx-service-blue
+ 2029  k get all 
+ 2030  k get po -owide
+ 2031  k apply -f d3_networking/03_ingress/ingress-deploy-red.yaml
+ 2032  k get all
+ 2033  k edit svc nginx-service-red
+ 2034  k get all
+ 2035  k describe svc nginx-service-red
+ 2036  k get po -owide
+ 2037  k get no -owide
+ 2038  k get all -owide
+ 2039  k get no --show-labels
+ 2040  k apply -f d3_networking/03_ingress/ingress-deploy-blue.yaml
+ 2041  k get po -owide
+ 2042  k delete -f d3_networking/03_ingress/ingress-deploy-blue.yaml
+ 2043  k get po 
+ 2044  k get po  -odei
+ 2045  k get po  -ow
+ 2046  k get po  -owide
+ 2047  k get pod myapp -oyaml
+ 2048  kubectl get nodes --show-labels\n
+ 2049  k label no kube2 priority=high
+ 2050  kubectl get nodes --show-labels\n
+ 2051  cd d3_networking/03_ingress
+ 2052  l
+ 2053  k apply -f ingress-deploy-blue.yaml
+ 2054  k get po -owide
+ 2055  k get svc -owide
+ 2056  k get no
+ 2057  konp
+ 2058  k getn o
+ 2059  ls
+ 2060  cd devops/temp/k8s-cka/d3_networking/03_ingress/
+ 2061  ls
+ 2062  cd webdata
+ 2063  kubectl create configmap httpblue --from-file=./blue/
+ 2064  kubectl create configmap httpred --from-file=./red/
+ 2065  k get configmaps
+ 2066  k describe configmaps httpblue
+ 2067  k get deployments.apps
+ 2068  k apply -f ../ingress-deploy-blue.yaml
+ 2069  k delete deployments.apps nginx-deployment-blue
+ 2070  k apply -f ../ingress-deploy-blue.yaml
+ 2071  k get po -owide
+ 2072  k get svc
+ 2073  k exec nginx-deployment-blue-7db4c98c65-h8djv -it -- /bin/bash
+ 2074  k apply -f ../ingress-deploy-red.yaml
+ 2075  k get po -owide
+ 2076  k delete -f ../ingress-deploy-red.yaml
+ 2077  k get po -owide
+ 2078  k apply -f ../ingress-deploy-red.yaml
+ 2079  k get po -owide
+ 2080  k get svc
+ 2081  k get po 
+ 2082  k get p 
+ 2083  k get configmaps
+ 2084  k describe configmaps httpred
+ 2085  k get po 
+ 2086  k get po  -owide
+ 2087  k apply -f ../ingress-deploy-red.yaml
+ 2088  k get po 
+ 2089  k get po  -owide
+ 2090  k edit svc nginx-service-blue
+ 2091  k get svc
+ 2092  k get po 
+ 2093  k get po  -owide
+ 2094  k edit svc nginx-service-blue
+ 2095  k get svc
+ 2096  k exec tools -it -- /bin/bash
+ 2097  lxc
+ 2098  k get svc
+ 2099  ls
+ 2100  cd ../
+ 2101  ls
+ 2102  git clone https://github.com/traefik/traefik.git
+ 2103  ls
+ 2104  cd traefik
+ 2105  ls
+ 2106  git checkout HEAD v1.7
+ 2107  git checkout v1.7
+ 2108  ls
+ 2109  cd examples
+ 2110  ls
+ 2111  cd k8s
+ 2112  ls
+ 2113  vim traefik-ds.yaml
+ 2114  cd ../
+ 2115  git clone https://github.com/justmeandopensource/kubernetes.git
+ 2116  k apply -f https://github.com/traefik/traefik/blob/v1.7/examples/k8s/traefik-rbac.yaml
+ 2117  k describe clusterrol
+ 2118  k describe clusterrole
+ 2119  k describe clusterrole traefik-ingress-controller
+ 2120  k delete -f https://github.com/traefik/traefik/blob/v1.7/examples/k8s/traefik-rbac.yaml
+ 2121  k describe clusterrole traefik-ingress-controller
+ 2122  cd traefik
+ 2123  ls
+ 2124  cd examples/k8s/
+ 2125  ls
+ 2126  k apply -f traefik-rbac.yaml
+ 2127  k delete -f traefik-rbac.yaml
+ 2128  k apply -f traefik-rbac.yaml
+ 2129  k apply -f traefik-ds.yaml
+ 2130  k get all -n kube-system| grep traefik
+ 2131  k get svc
+ 2132  cd ~/devops/temp/k8s-cka/d3_networking/03_ingress
+ 2133  ls
+ 2134  vim ingress-namebased.yaml
+ 2135  k get svc
+ 2136  k apply -f ingress-namebased.yaml
+ 2137  k get ing 
+ 2138  k describe ingress
+ 2139  nslookup red.example.com
+ 2140  red.example.com
+ 2141  sudo vim /etc/hosts
+ 2142  ping red.example.com
+ 2143  nslookup
+ 2144  cat /etc/resolv.conf
+ 2145  vim /etc/resolv.conf
+ 2146  sudo vim /etc/resolv.conf
+ 2147  nslookup 
+ 2148  sudo vim /etc/resolv.conf
+ 2149  nslookup 
+ 2150  \tcat /etc/hosts
+ 2151  sudo vim /etc/hosts
+ 2152  nslookup
+ 2153  ping github.do.class
+ 2154  nslookup
+ 2155  ping gitlab.do.class
+ 2156  k get ing
+ 2157  k describe ing
+ 2158  k describe Cluster
+ 2159  k get all -n kube-system
+ 2160  k get all -n kube-system -owide
+ 2161  k logs pod/traefik-ingress-controller-9sl8x
+ 2162  k get all -n kube-system -owide -n kube-system
+ 2163  k logs pod/traefik-ingress-controller-9sl8x  -n kube-system
+ 2164  k describe clusterrole  traefik-ingress-controller
+ 2165  k describe clusterrole  traefik-ingress-controller -n kube-system
+ 2166  cd traefik/examples/k8s
+ 2167  ls
+ 2168  k apply -f traefik-rbac.yaml
+ 2169  k --version 
+ 2170  k -version  --short
+ 2171  k -v  --short
+ 2172  k version
+ 2173  k version --short
+ 2174  k logs pod/traefik-ingress-controller-9sl8x  -n kube-system
+ 2175  cd ~/devops/temp/k8s-cka/d3_networking/03_ingress
+ 2176  k apply -f ingress-namebased.yaml
+ 2177  k delete ingressclasses.networking.k8s.io
+ 2178  k delete ingressclasses.networking.k8s.io traefik-lb
+ 2179  k get ingressclasses.networking.k8s.io
+ 2180  k logs pod/traefik-ingress-controller-9sl8x  -n kube-system
+ 2181  k get po -n kube-system
+ 2182  k get po -n kube-system -owide
+ 2183  k logs traefik-ingress-controller-pknnw
+ 2184  k logs traefik-ingress-controller-pknnw -n kube-system
+ 2185  k logs traefik-ingress-controller-9sl8x -n kube-system
+ 2186  k logs traefik-ingress-controller-xsrfj -n kube-system
+ 2187  Service not found for default/
+ 2188  k port-forward nginx-deployment-blue-7db4c98c65-d6rtm 80:8080
+ 2189  k port-forward nginx-deployment-blue-7db4c98c65-d6rtm 80:80
+ 2190  k port-forward nginx-deployment-blue-7db4c98c65-d6rtm 8080:80
+ 2191  firewalld
+ 2192* ssh root@192.168.0.218
+ 2193  k get all 
+ 2194* sshdlvn 
+ 2195  k logs traefik-ingress-controller-xsrfj -n kube-system
+ 2196  kubectl describe services traefik
+ 2197  k apply -f ingress-namebased.yam
+ 2198  k apply -f ingress-namebased.yaml
+ 2199  k logs traefik-ingress-controller-xsrfj -n kube-system
+ 2200  k get po -n kube-system
+ 2201  k logs traefik-ingress-controller-pknnw -n kube-system
+ 2202  k logs traefik-ingress-controller-9sl8x -n kube-system
+ 2203  k get all -n kube=system
+ 2204  k get all -n kube-system
+ 2205  k apply -f ingress-namebased.yaml
+ 2206  curl http://red.example.com
+ 2207  curl http://blue.example.com
+ 2208  ps -ef|grep port-forward
+ 2209* exit
+ 2210* ssh root@192.168.0.218
+ 2211  cd ../
+ 2212  git clone https://github.com/dinhdobathi1992/traefik-k8s.git
+ 2213  ls
+ 2214  cd traefik-k8s
+ 2215  ls
+ 2216  code .

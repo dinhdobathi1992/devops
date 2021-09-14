@@ -1,0 +1,37 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: ingress-namebased
+  annotations: 
+    kubernetes.io/ingress.class: traefik
+    ingress.kubernetes.io/protocol: http
+    traefik.ingress.kubernetes.io/rule-type: PathPrefixStrip
+spec:
+  rules:
+  - host: red.example.com
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: nginx-service-red
+            port: 
+              number: 80
+  - host: blue.example.com
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: nginx-service-blue
+            port:
+              number: 80
+---
+apiVersion: networking.k8s.io/v1
+kind: IngressClass
+metadata:
+  name: traefik-lb
+spec:
+  controller: traefik.io/ingress-controller
